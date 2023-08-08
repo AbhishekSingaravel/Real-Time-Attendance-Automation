@@ -5,6 +5,7 @@ Achieved image similarity checks with an accuracy rate of 90%, accurately record
 Developed an automated consolidation process that provides comprehensive daily reports, improving efficiency by reducing manual data processing time by 75%.
 Ensured system reliability by maintaining continuous operation of the entry and exit tracking code, contributing to seamless employee management and accountability
 
+Download the __pycache__ file for Convolutional Neural Network functionality.
 Used supervised pre loaded images for capturing and marking the attendance.
 
 To run with on time schduling use "Task Schduler" in Windows 11.
